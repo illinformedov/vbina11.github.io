@@ -1,0 +1,495 @@
+{
+  "owner": "idlasso.com|0",
+  "pages": {
+    "detail/ma-lai-xi-ya-man-yue-wei-xin-hao-dai-zi-liao-jin-da-qun-bian-jie-pi-fa.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-019|overseas_native-022|overseas_native-041",
+      "faq_ids": [
+        "overseas_native-019",
+        "overseas_native-041",
+        "overseas_native-022"
+      ],
+      "topics": [
+        "海外号能否使用微信朋友圈与视频号",
+        "旧手机清理与海外环境隔离",
+        "安卓无谷歌框架手机能否登录"
+      ]
+    },
+    "detail/xiang-gang-man-yue-wei-xin-hao-dai-zi-liao-jin-da-qun-zai-xian-yi-shou-huo-yuan.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-031|overseas_native-037|overseas_native-048",
+      "faq_ids": [
+        "overseas_native-037",
+        "overseas_native-031",
+        "overseas_native-048"
+      ],
+      "topics": [
+        "海外号是否支持微信支付分或小程序下单",
+        "未在24小时内首登的质保说明",
+        "接码链接历史验证码查询"
+      ]
+    },
+    "detail/liang-nian-shi-ming-wei-xin-hao-gao-quan-zhong-dai-zi-liao-zai-xian-zi-zhu-xia-dan.html": {
+      "bucket": "cn_long_aged",
+      "signature": "cn_long_aged|cn_long_aged-010|cn_long_aged-021|cn_long_aged-025",
+      "faq_ids": [
+        "cn_long_aged-010",
+        "cn_long_aged-025",
+        "cn_long_aged-021"
+      ],
+      "topics": [
+        "商业收付款与结算",
+        "视频号直播高并发咨询",
+        "销售团队多席位部署"
+      ]
+    },
+    "detail/yuan-ji-wei-xin-1-5-nian-dai-zhi-fu-zhang-dan-yi-shi-ming-han-shou-ji-bao-you-bian-jie-jing-xuan-huo-yuan.html": {
+      "bucket": "phone_bundle",
+      "signature": "phone_bundle|phone_bundle-006|phone_bundle-012|phone_bundle-018",
+      "faq_ids": [
+        "phone_bundle-018",
+        "phone_bundle-012",
+        "phone_bundle-006"
+      ],
+      "topics": [
+        "跨省邮寄原机后的基站变化影响",
+        "能否连接办公室Wi-Fi使用原机",
+        "出库实机全检与顺丰发货"
+      ]
+    },
+    "detail/mei-guo-liang-nian-wei-xin-hao-kang-feng-dai-zi-liao-zai-xian-zi-zhu-ti-ka.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-025|overseas_native-045|overseas_native-051",
+      "faq_ids": [
+        "overseas_native-025",
+        "overseas_native-051",
+        "overseas_native-045"
+      ],
+      "topics": [
+        "多个{region}号矩阵防关联配置",
+        "海外号发语音消息与转文字功能",
+        "跨国团队多人交接使用规范"
+      ]
+    },
+    "detail/zhan-jie-hao-fu-jin-ren-yin-liu-lao-hao-wei-xin-hao-kang-feng-kuai-jie-zhi-fa.html": {
+      "bucket": "cn_short_aged",
+      "signature": "cn_short_aged|cn_short_aged-012|cn_short_aged-026|cn_short_aged-060",
+      "faq_ids": [
+        "cn_short_aged-012",
+        "cn_short_aged-026",
+        "cn_short_aged-060"
+      ],
+      "topics": [
+        "电商批发适用场景",
+        "长效接码作用说明",
+        "老号升级原机套装的适用对比"
+      ]
+    },
+    "detail/ban-nian-shi-ming-wei-xin-hao-kang-feng-kang-tou-su-ke-shou-fu-kuan-zai-xian-chu-shou.html": {
+      "bucket": "cn_short_aged",
+      "signature": "cn_short_aged|cn_short_aged-017|cn_short_aged-025|cn_short_aged-027",
+      "faq_ids": [
+        "cn_short_aged-025",
+        "cn_short_aged-017",
+        "cn_short_aged-027"
+      ],
+      "topics": [
+        "生态应用授权登录",
+        "短账龄与多年老号选型",
+        "登录设备系统选择"
+      ]
+    },
+    "detail/han-guo-jia-na-da-man-yue-wei-xin-hao-dai-zi-liao-jin-da-qun-bian-jie-xian-huo.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-013|overseas_native-026|overseas_native-053",
+      "faq_ids": [
+        "overseas_native-013",
+        "overseas_native-053",
+        "overseas_native-026"
+      ],
+      "topics": [
+        "跨境PC端同步办公",
+        "海外号修改密码的操作时机",
+        "修改个人资料与微信号ID"
+      ]
+    },
+    "detail/qi-ye-wei-xin-hao-yi-ren-zheng-lan-biao-zhu-ti-kang-feng-fang-xian-liu-kuai-jie-gou-mai.html": {
+      "bucket": "wecom_enterprise",
+      "signature": "wecom_enterprise|wecom_enterprise-010|wecom_enterprise-016|wecom_enterprise-019",
+      "faq_ids": [
+        "wecom_enterprise-016",
+        "wecom_enterprise-019",
+        "wecom_enterprise-010"
+      ],
+      "topics": [
+        "企业微信主体的营业执照资质信息包含哪些",
+        "已认证企微能否绑定视频号和小程序",
+        "认证企业微信的有效期与后期年审"
+      ]
+    },
+    "detail/tai-guo-fei-lyu-bin-man-yue-wei-xin-hao-dai-zi-liao-jin-da-qun-bian-jie-zi-zhu-xia-dan.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-017|overseas_native-018|overseas_native-020",
+      "faq_ids": [
+        "overseas_native-018",
+        "overseas_native-020",
+        "overseas_native-017"
+      ],
+      "topics": [
+        "独享静态住宅IP选购建议",
+        "独立站WhatsApp导流承接场景",
+        "海外号绑定国内+86手机号的影响"
+      ]
+    },
+    "detail/wei-xin-xiao-cheng-xu-yi-bei-an-yi-ren-zheng-cheng-pin-hao-kuai-jie-xian-huo.html": {
+      "bucket": "miniprogram",
+      "signature": "miniprogram|miniprogram-001|miniprogram-003|miniprogram-006",
+      "faq_ids": [
+        "miniprogram-001",
+        "miniprogram-006",
+        "miniprogram-003"
+      ],
+      "topics": [
+        "管理员变更与开发者绑定",
+        "接手小程序后能否绑定多个开发人员与体验者",
+        "小程序主体资质与信用核验"
+      ]
+    },
+    "detail/yue-nan-mian-dian-jian-pu-zhai-liang-nian-wei-xin-hao-dai-zi-liao-bian-jie-xian-huo-miao-fa.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-017|overseas_native-028|overseas_native-056",
+      "faq_ids": [
+        "overseas_native-028",
+        "overseas_native-056",
+        "overseas_native-017"
+      ],
+      "topics": [
+        "接码链接在海外网络下的访问性",
+        "批量采购海外原生号如何导出账密",
+        "海外号绑定国内+86手机号的影响"
+      ]
+    },
+    "detail/ri-ben-liang-nian-wei-xin-hao-ke-shou-fu-kuan-dai-zi-liao-bian-jie-gou-mai.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-003|overseas_native-037|overseas_native-052",
+      "faq_ids": [
+        "overseas_native-037",
+        "overseas_native-003",
+        "overseas_native-052"
+      ],
+      "topics": [
+        "海外号是否支持微信支付分或小程序下单",
+        "跨境外贸原生优势",
+        "海外满月号账龄核验方式"
+      ]
+    },
+    "detail/xin-jia-po-liang-nian-wei-xin-hao-ke-shou-fu-kuan-dai-zi-liao-zai-xian-kuai-su-fa-huo.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-020|overseas_native-035|overseas_native-047",
+      "faq_ids": [
+        "overseas_native-035",
+        "overseas_native-020",
+        "overseas_native-047"
+      ],
+      "topics": [
+        "海外号能否加入国内百人行业交流群",
+        "独立站WhatsApp导流承接场景",
+        "海外号接收海外企业微信添加"
+      ]
+    },
+    "detail/man-yue-wei-shi-ming-wei-xin-hao-bai-hao-jia-hao-you-jin-da-qun-zai-xian-gou-mai.html": {
+      "bucket": "baihao",
+      "signature": "baihao|baihao-017|baihao-026|baihao-036",
+      "faq_ids": [
+        "baihao-017",
+        "baihao-026",
+        "baihao-036"
+      ],
+      "topics": [
+        "新设备验证处理",
+        "未实名状态验收",
+        "实名认证年龄与证件要求"
+      ]
+    },
+    "detail/yuan-ji-an-zhuo-wei-xin-1-5-ge-yue-shi-ming-han-shou-ji-bao-you-bian-jie-an-quan-huan-bang.html": {
+      "bucket": "phone_bundle",
+      "signature": "phone_bundle|phone_bundle-007|phone_bundle-008|phone_bundle-010",
+      "faq_ids": [
+        "phone_bundle-010",
+        "phone_bundle-007",
+        "phone_bundle-008"
+      ],
+      "topics": [
+        "签收开箱质保政策",
+        "大额商业收款稳定性",
+        "真机成色与电池续航"
+      ]
+    },
+    "detail/xin-jia-po-man-yue-wei-xin-hao-dai-zhang-dan-jin-da-qun-zai-xian-jing-xuan-huo-yuan.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-019|overseas_native-021|overseas_native-039",
+      "faq_ids": [
+        "overseas_native-021",
+        "overseas_native-039",
+        "overseas_native-019"
+      ],
+      "topics": [
+        "苹果美区/外区ID下载微信建议",
+        "海外号朋友圈展示语言与文案建议",
+        "海外号能否使用微信朋友圈与视频号"
+      ]
+    },
+    "detail/yuan-ji-ping-guo-wei-xin-6-11-ge-yue-dai-zhi-fu-zhang-dan-quan-tao-bao-you-bian-jie-zai-xian-xuan-gou.html": {
+      "bucket": "phone_bundle",
+      "signature": "phone_bundle|phone_bundle-014|phone_bundle-020|phone_bundle-022",
+      "faq_ids": [
+        "phone_bundle-020",
+        "phone_bundle-014",
+        "phone_bundle-022"
+      ],
+      "topics": [
+        "原机自带电话卡的月租与查询方式",
+        "原机套装内微信的注册账龄与实名状态",
+        "原机收款后如何把零钱转给财务或主号"
+      ]
+    },
+    "detail/yi-nian-shi-ming-wei-xin-hao-dai-zhang-dan-ke-zhuan-zhang-fa-hong-bao-zai-xian-zhi-fa.html": {
+      "bucket": "cn_short_aged",
+      "signature": "cn_short_aged|cn_short_aged-019|cn_short_aged-045|cn_short_aged-060",
+      "faq_ids": [
+        "cn_short_aged-045",
+        "cn_short_aged-019",
+        "cn_short_aged-060"
+      ],
+      "topics": [
+        "海外客户添加与跨境沟通",
+        "同网络多设备隔离",
+        "老号升级原机套装的适用对比"
+      ]
+    },
+    "detail/han-guo-jia-na-da-liang-nian-wei-xin-hao-ke-shou-fu-kuan-dai-zi-liao-bian-jie-zhi-fa.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-007|overseas_native-010|overseas_native-043",
+      "faq_ids": [
+        "overseas_native-007",
+        "overseas_native-043",
+        "overseas_native-010"
+      ],
+      "topics": [
+        "当地时区首登养号",
+        "海外号能否使用微信读书与公众号订阅",
+        "设备时区与语言匹配"
+      ]
+    },
+    "detail/yuan-ji-an-zhuo-wei-xin-6-11-ge-yue-dai-zhi-fu-zhang-dan-han-shou-ji-bao-you-bian-jie-gao-quan-zhong-lao-hao.html": {
+      "bucket": "phone_bundle",
+      "signature": "phone_bundle|phone_bundle-002|phone_bundle-013|phone_bundle-027",
+      "faq_ids": [
+        "phone_bundle-013",
+        "phone_bundle-027",
+        "phone_bundle-002"
+      ],
+      "topics": [
+        "千万不要把原机账号登到别的手机上",
+        "原机套装包含的账号资料明细有哪些",
+        "硬件指纹零变动优势"
+      ]
+    },
+    "detail/yuan-ji-wei-xin-yi-shi-ming-dai-ling-qian-tong-zheng-fan-mian-quan-tao-bao-you-bian-jie-kuai-su-fa-huo.html": {
+      "bucket": "phone_bundle",
+      "signature": "phone_bundle|phone_bundle-004|phone_bundle-006|phone_bundle-015",
+      "faq_ids": [
+        "phone_bundle-004",
+        "phone_bundle-006",
+        "phone_bundle-015"
+      ],
+      "topics": [
+        "自带电话卡与话费续费",
+        "出库实机全检与顺丰发货",
+        "原机收到后需要静置三天再加人吗"
+      ]
+    },
+    "detail/qi-ye-wei-xin-guan-li-yuan-quan-tao-zhu-ti-hao-ying-ye-zhi-zhao-kuai-jie-pi-fa.html": {
+      "bucket": "wecom_enterprise",
+      "signature": "wecom_enterprise|wecom_enterprise-009|wecom_enterprise-010|wecom_enterprise-019",
+      "faq_ids": [
+        "wecom_enterprise-010",
+        "wecom_enterprise-009",
+        "wecom_enterprise-019"
+      ],
+      "topics": [
+        "认证企业微信的有效期与后期年审",
+        "未认证企微与已认证蓝标企微功能对比",
+        "已认证企微能否绑定视频号和小程序"
+      ]
+    },
+    "detail/yuan-ji-wei-xin-yi-ji-liang-hao-dai-zhang-dan-liu-liang-ka-han-shou-ji-bao-you-bian-jie-pi-liang-cai-gou.html": {
+      "bucket": "phone_bundle",
+      "signature": "phone_bundle|phone_bundle-024|phone_bundle-029|phone_bundle-030",
+      "faq_ids": [
+        "phone_bundle-030",
+        "phone_bundle-024",
+        "phone_bundle-029"
+      ],
+      "topics": [
+        "哪些后期操作不在原机售后保修范围内",
+        "下单后多久发出？支持顺丰到付或保价吗",
+        "签收验收录制开箱视频的重要性"
+      ]
+    },
+    "detail/ri-ben-man-yue-wei-xin-hao-dai-zi-liao-jin-da-qun-zai-xian-pi-liang-cai-gou.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-006|overseas_native-018|overseas_native-042",
+      "faq_ids": [
+        "overseas_native-018",
+        "overseas_native-042",
+        "overseas_native-006"
+      ],
+      "topics": [
+        "独享静态住宅IP选购建议",
+        "海外号被动扫码添加的承接上限",
+        "禁用共享机场VPN说明"
+      ]
+    },
+    "detail/ma-lai-xi-ya-liang-nian-wei-xin-hao-ke-shou-fu-kuan-dai-zi-liao-bian-jie-chu-shou.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-004|overseas_native-037|overseas_native-053",
+      "faq_ids": [
+        "overseas_native-004",
+        "overseas_native-037",
+        "overseas_native-053"
+      ],
+      "topics": [
+        "海外号支付与钱包边界",
+        "海外号是否支持微信支付分或小程序下单",
+        "海外号修改密码的操作时机"
+      ]
+    },
+    "detail/yuan-ji-ping-guo-wei-xin-1-5-ge-yue-shi-ming-han-shou-ji-liu-liang-ka-bian-jie-zi-zhu-ti-ka.html": {
+      "bucket": "phone_bundle",
+      "signature": "phone_bundle|phone_bundle-003|phone_bundle-004|phone_bundle-029",
+      "faq_ids": [
+        "phone_bundle-029",
+        "phone_bundle-004",
+        "phone_bundle-003"
+      ],
+      "topics": [
+        "签收验收录制开箱视频的重要性",
+        "自带电话卡与话费续费",
+        "拆箱开机即用流程"
+      ]
+    },
+    "detail/wu-nian-shi-ming-wei-xin-hao-ling-qian-tong-ke-zhuan-zhang-zai-xian-24-xiao-shi-zi-dong-fa-ka.html": {
+      "bucket": "cn_long_aged",
+      "signature": "cn_long_aged|cn_long_aged-004|cn_long_aged-034|cn_long_aged-040",
+      "faq_ids": [
+        "cn_long_aged-034",
+        "cn_long_aged-040",
+        "cn_long_aged-004"
+      ],
+      "topics": [
+        "客户转账提示风险的成因",
+        "视频号主页名片引流",
+        "72小时首登静置规范"
+      ]
+    },
+    "detail/wei-xin-gong-zhong-hao-fu-wu-hao-ding-yue-hao-yi-ren-zheng-cheng-pin-kuai-jie-chu-shou.html": {
+      "bucket": "official_account",
+      "signature": "official_account|official_account-003|official_account-007|official_account-009",
+      "faq_ids": [
+        "official_account-009",
+        "official_account-007",
+        "official_account-003"
+      ],
+      "topics": [
+        "已认证服务号能否申请微信支付商户号",
+        "认证服务号与认证订阅号核心区别",
+        "历史违规记录与后台核验"
+      ]
+    },
+    "detail/tai-guo-fei-lyu-bin-liang-nian-wei-xin-hao-ke-shou-fu-kuan-dai-zi-liao-bian-jie-24-xiao-shi-zi-dong-fa-ka.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-024|overseas_native-037|overseas_native-046",
+      "faq_ids": [
+        "overseas_native-024",
+        "overseas_native-037",
+        "overseas_native-046"
+      ],
+      "topics": [
+        "海外号接收国内客户人民币红包",
+        "海外号是否支持微信支付分或小程序下单",
+        "海外号登录设备数量上限"
+      ]
+    },
+    "detail/yue-nan-mian-dian-jian-pu-zhai-man-yue-wei-xin-hao-jin-da-qun-bian-jie-yi-shou-huo-yuan.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-006|overseas_native-020|overseas_native-050",
+      "faq_ids": [
+        "overseas_native-020",
+        "overseas_native-006",
+        "overseas_native-050"
+      ],
+      "topics": [
+        "独立站WhatsApp导流承接场景",
+        "禁用共享机场VPN说明",
+        "如何查看海外号当前绑定手机号"
+      ]
+    },
+    "detail/san-ge-yue-shi-ming-wei-xin-hao-dai-zhang-dan-ke-shou-fu-kuan-zai-xian-pi-fa.html": {
+      "bucket": "cn_short_aged",
+      "signature": "cn_short_aged|cn_short_aged-025|cn_short_aged-028|cn_short_aged-051",
+      "faq_ids": [
+        "cn_short_aged-028",
+        "cn_short_aged-025",
+        "cn_short_aged-051"
+      ],
+      "topics": [
+        "电商包裹卡引流场景",
+        "生态应用授权登录",
+        "微信读书与腾讯客服互动"
+      ]
+    },
+    "detail/mei-guo-man-yue-wei-xin-hao-hai-wai-jia-hao-you-zai-xian-gao-quan-zhong-lao-hao.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-011|overseas_native-014|overseas_native-028",
+      "faq_ids": [
+        "overseas_native-028",
+        "overseas_native-011",
+        "overseas_native-014"
+      ],
+      "topics": [
+        "接码链接在海外网络下的访问性",
+        "切错节点临时保护解除",
+        "满月号与两年老号选型"
+      ]
+    },
+    "detail/man-nian-yi-shi-ming-bang-ka-ji-da-e-shou-fu-ling-qian-tong-kuai-jie-zi-zhu-xia-dan.html": {
+      "bucket": "cn_long_aged",
+      "signature": "cn_long_aged|cn_long_aged-047|cn_long_aged-048|cn_long_aged-060",
+      "faq_ids": [
+        "cn_long_aged-048",
+        "cn_long_aged-060",
+        "cn_long_aged-047"
+      ],
+      "topics": [
+        "首登跳出滑块验证处理",
+        "一步到位省心方案推荐",
+        "微信搜一搜文章与品牌曝光"
+      ]
+    },
+    "detail/xiang-gang-liang-nian-wei-xin-hao-ke-shou-fu-kuan-dai-zi-liao-zai-xian-an-quan-huan-bang.html": {
+      "bucket": "overseas_native",
+      "signature": "overseas_native|overseas_native-006|overseas_native-009|overseas_native-027",
+      "faq_ids": [
+        "overseas_native-009",
+        "overseas_native-027",
+        "overseas_native-006"
+      ],
+      "topics": [
+        "外贸B2B加人与建群",
+        "海外号能否关联企业微信对外沟通",
+        "禁用共享机场VPN说明"
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.wx-theme{--primary:#07c160;--dark:#0f172a;--border:#e2e8f0;color:#334155;line-height:1.6}.wx-theme .survival-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: -24px auto 28px; background: #fff; padding: 16px; border-radius: 12px; border: 1px solid var(--border); box-shadow: 0 4px 12px rgba(0,0,0,0.04); }
+.wx-theme .survival-item { text-align: center; }
+.wx-theme .survival-item strong { display: block; font-size: 1.35rem; color: var(--primary); }
+.wx-theme .tool-box { background: #fff; border: 1px solid #bbf7d0; border-left: 4px solid var(--primary); border-radius: 12px; padding: 20px; margin-bottom: 30px; }
+.wx-theme .tool-box h3 { margin: 0 0 8px; color: var(--dark); }
+.wx-theme .diag-chip { background: #f1f5f9; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 6px; cursor: pointer; font-size: 12px; font-weight: 600; }
+.wx-theme .diag-chip:hover { border-color: var(--primary); color: var(--primary); }
+.wx-theme .survival-bar{margin-top:0;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr))}

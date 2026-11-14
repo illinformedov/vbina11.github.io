@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://vbinar.com/sitemap.xml
+Sitemap: https://idlasso.com/sitemap.xml
