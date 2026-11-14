@@ -1,7 +1,7 @@
 
     :root {
-      --primary: #e11d48;
-      --primary-hover: #be123c;
+      --primary: #087f86;
+      --primary-hover: #087f86;
       --dark: #0f172a;
       --slate: #334155;
       --border: #e2e8f0;
@@ -23,9 +23,9 @@
     @media (max-width: 860px) { .st-detail-grid { grid-template-columns: 1fr; } }
     
     .st-detail-left h1 { font-size: 1.55rem; color: var(--dark); margin: 0 0 12px; line-height: 1.35; }
-    .st-detail-badge { display: inline-block; background: #e11d4815; color: var(--primary); font-size: 0.85rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; margin-bottom: 12px; }
+    .st-detail-badge { display: inline-block; background: #087f8615; color: var(--primary); font-size: 0.85rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; margin-bottom: 12px; }
     .st-detail-price-box { display: flex; align-items: baseline; gap: 10px; margin: 16px 0; padding: 16px; background: #f8fafc; border-radius: 10px; border: 1px solid var(--border); }
-    .st-price-num { font-size: 2.2rem; font-weight: 900; color: #e11d48; }
+    .st-price-num { font-size: 2.2rem; font-weight: 900; color: #087f86; }
     .st-unit { font-size: 0.95rem; color: #64748b; }
     .st-stock-badge { margin-left: auto; background: #dcfce7; color: #15803d; font-size: 0.85rem; font-weight: 700; padding: 4px 10px; border-radius: 20px; }
     
@@ -141,7 +141,7 @@ body.theme-terminal .st-btn-buy { border-radius: 4px; }
 body.theme-terminal .ec-card { border-radius: 4px; border: 1px solid #e4e4e7; box-shadow: none; }
 body.theme-terminal .ec-btn-buy { border-radius: 4px; }
 
-      :root { --primary: #07c160; --primary-hover: #059649; }
+      :root { --primary: #087f86; --primary-hover: #059649; }
       
       body { padding-top: 0; }
       .st-header-inner .st-logo { flex: 0 1 auto; min-width: 0; }
@@ -164,28 +164,28 @@ body.theme-terminal .ec-btn-buy { border-radius: 4px; }
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-head h2 > span,
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-columns h3 > span,
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-total strong {
-        color: var(--primary-hover, #be123c);
+        color: var(--primary-hover, #087f86);
       }
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-timer {
-        color: var(--primary-hover, #be123c);
+        color: var(--primary-hover, #087f86);
         border-color: color-mix(in srgb, var(--primary) 24%, white);
         background: color-mix(in srgb, var(--primary) 7%, white);
       }
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-address button {
-        background: var(--primary-hover, #be123c);
+        background: var(--primary-hover, #087f86);
       }
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-address button:hover {
         background: color-mix(in srgb, var(--primary-hover) 80%, black);
       }
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-head button:hover {
-        color: var(--primary-hover, #be123c);
+        color: var(--primary-hover, #087f86);
         background: color-mix(in srgb, var(--primary) 9%, white);
       }
       #dyc-1-x-order-notice.dyc-1-x-order-notice {
         border-color: color-mix(in srgb, var(--primary) 18%, white);
-        border-left-color: var(--primary, #e11d48);
+        border-left-color: var(--primary, #087f86);
       }
-      #dyc-1-x-order-notice.dyc-1-x-order-notice strong { color: var(--primary-hover, #be123c); }
+      #dyc-1-x-order-notice.dyc-1-x-order-notice strong { color: var(--primary-hover, #087f86); }
       .st-submit-btn[aria-busy=true] { display:inline-flex; align-items:center; justify-content:center; gap:9px; cursor:wait !important; opacity:.88; }
       .st-submit-btn[aria-busy=true]::before { content:""; width:1em; height:1em; box-sizing:border-box; border:2px solid #ffffff66; border-top-color:#fff; border-radius:50%; animation:checkout-spin .75s linear infinite; flex:none; }
       @keyframes checkout-spin { to { transform:rotate(360deg); } }

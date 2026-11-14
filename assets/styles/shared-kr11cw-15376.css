@@ -1,24 +1,23 @@
 
-    :root { --primary: #e11d48; --primary-hover: #be123c; --dark: #0f172a; --slate: #334155; }
+    :root { --primary: #087f86; --primary-hover: #087f86; --dark: #0f172a; --slate: #334155; }
     .st-top-brand { display: flex; align-items: center; gap: 8px; font-weight: 800; font-size: 1.25rem; color: #0f172a; text-decoration: none; }
-    .st-top-brand span { color: var(--primary); }
-    .dyc-1-f-table-buy { background: var(--primary) !important; border-color: var(--primary) !important; }
-    .dyc-1-f-table-buy:hover { background: var(--primary-hover) !important; }
-    .st-order-page { max-width: 680px; margin: 40px auto 60px; padding: 0 20px; }
-    .st-order-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 32px; box-shadow: 0 4px 12px rgba(0,0,0,0.03); }
-    .st-order-card h1 { margin-top: 0; font-size: 1.5rem; color: #0f172a; display: flex; align-items: center; gap: 10px; }
-    .st-order-card p { color: #64748b; font-size: 0.95rem; line-height: 1.6; }
-    .st-order-input-wrap { margin: 24px 0 20px; display: flex; gap: 12px; }
-    .st-order-input-wrap input { flex: 1; padding: 13px 16px; border: 2px solid #e2e8f0; border-radius: 8px; font-size: 1rem; outline: none; }
-    .st-order-input-wrap input:focus { border-color: var(--primary); }
-    .st-order-input-wrap button { padding: 13px 24px; background: var(--primary); color: #fff; border: 0; border-radius: 8px; font-weight: 700; cursor: pointer; white-space: nowrap; }
-    .st-order-input-wrap button:hover { background: var(--primary-hover); }
-    .st-faq-hint { margin-top: 30px; padding: 20px; background: #f8fafc; border-radius: 10px; border: 1px solid #e2e8f0; font-size: 0.9rem; color: #475569; }
-    .st-faq-hint h3 { margin: 0 0 8px; font-size: 1rem; color: #0f172a; }
-    .st-order-footer { background: #0f172a; color: #94a3b8; padding: 24px; text-align: center; font-size: 0.85rem; margin-top: 80px; }
-    .st-order-footer a { color: #cbd5e1; text-decoration: none; margin: 0 10px; }
+    .st-guide-wrap { max-width: 860px; margin: 30px auto 60px; padding: 0 20px; }
+    .st-guide-article { background: #fff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 36px 32px; box-shadow: 0 4px 12px rgba(0,0,0,0.03); }
+    .st-guide-article h1 { font-size: 1.85rem; color: #0f172a; line-height: 1.35; margin: 12px 0 16px; }
+    .st-guide-meta { display: flex; gap: 16px; color: #64748b; font-size: 0.88rem; padding-bottom: 20px; border-bottom: 1px solid #f1f5f9; margin-bottom: 24px; }
+    .st-guide-lead { background: #087f8610; border-left: 4px solid var(--primary); padding: 16px 20px; border-radius: 0 8px 8px 0; font-size: 1rem; color: #334155; line-height: 1.65; margin-bottom: 30px; }
+    .st-guide-content { font-size: 1rem; line-height: 1.8; color: #334155; }
+    .st-guide-content h2 { font-size: 1.35rem; color: #0f172a; margin: 28px 0 14px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; }
+    .st-guide-content p { margin: 14px 0; }
+    .st-guide-content ul, .st-guide-content ol { padding-left: 20px; margin: 14px 0; }
+    .st-guide-content li { margin-bottom: 8px; }
+    .st-guide-content a { color: var(--primary); font-weight: 700; text-decoration: underline; }
+    .st-guide-cta { margin-top: 40px; padding: 24px; background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 12px; color: #fff; text-align: center; }
+    .st-guide-cta h3 { margin: 0 0 8px; font-size: 1.25rem; color: #fff; }
+    .st-guide-cta p { color: #cbd5e1; font-size: 0.95rem; margin-bottom: 16px; }
+    .st-guide-cta a { display: inline-block; background: var(--primary); color: #fff; padding: 10px 24px; border-radius: 8px; font-weight: 700; text-decoration: none; }
   
-      :root { --primary: #07c160; --primary-hover: #059649; }
+      :root { --primary: #087f86; --primary-hover: #059649; }
       
       body { padding-top: 0; }
       .st-header-inner .st-logo { flex: 0 1 auto; min-width: 0; }
@@ -41,28 +40,28 @@
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-head h2 > span,
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-columns h3 > span,
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-total strong {
-        color: var(--primary-hover, #be123c);
+        color: var(--primary-hover, #087f86);
       }
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-timer {
-        color: var(--primary-hover, #be123c);
+        color: var(--primary-hover, #087f86);
         border-color: color-mix(in srgb, var(--primary) 24%, white);
         background: color-mix(in srgb, var(--primary) 7%, white);
       }
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-address button {
-        background: var(--primary-hover, #be123c);
+        background: var(--primary-hover, #087f86);
       }
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-address button:hover {
         background: color-mix(in srgb, var(--primary-hover) 80%, black);
       }
       #dyc-1-x-payment-dialog.dyc-1-x-confirm-payment .dyc-1-x-confirm-head button:hover {
-        color: var(--primary-hover, #be123c);
+        color: var(--primary-hover, #087f86);
         background: color-mix(in srgb, var(--primary) 9%, white);
       }
       #dyc-1-x-order-notice.dyc-1-x-order-notice {
         border-color: color-mix(in srgb, var(--primary) 18%, white);
-        border-left-color: var(--primary, #e11d48);
+        border-left-color: var(--primary, #087f86);
       }
-      #dyc-1-x-order-notice.dyc-1-x-order-notice strong { color: var(--primary-hover, #be123c); }
+      #dyc-1-x-order-notice.dyc-1-x-order-notice strong { color: var(--primary-hover, #087f86); }
       .st-submit-btn[aria-busy=true] { display:inline-flex; align-items:center; justify-content:center; gap:9px; cursor:wait !important; opacity:.88; }
       .st-submit-btn[aria-busy=true]::before { content:""; width:1em; height:1em; box-sizing:border-box; border:2px solid #ffffff66; border-top-color:#fff; border-radius:50%; animation:checkout-spin .75s linear infinite; flex:none; }
       @keyframes checkout-spin { to { transform:rotate(360deg); } }
